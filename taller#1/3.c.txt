@@ -1,0 +1,13 @@
+Proceso juego
+	definir n como entero;
+	Escribir "ingrse un numero";
+	Leer n;
+	Mientras n>0 Hacer
+		Escribir "perdiste";
+		Escribir "intentalo de nuevo";
+		Escribir "ingrese un nuemro";
+		Leer n;
+	FinMientras
+	Escribir "has ganaste";
+	Escribir "fin del juego";
+FinProceso

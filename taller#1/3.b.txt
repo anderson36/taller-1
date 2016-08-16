@@ -1,0 +1,10 @@
+Proceso pares
+	definir n como entero;
+	Escribir "digite un numero";
+	Leer n;
+	Si n MOD 2=0 Entonces
+		Escribir 'par';
+	Sino
+		Escribir 'impar';
+	FinSi
+FinProceso
